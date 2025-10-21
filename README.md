@@ -8,6 +8,10 @@ Clock Fixer è un programma che imposta automaticamente l'orario del computer al
 - Facile da configurare
 
 ## Installazione
-1. Scarica o clona la repository:
+1. Assicurati di avere python installato
+2. Scarica o clona la repository:
 ```bash
 git clone https://github.com/tuo-username/clock-fixer.git
+cd clock-fixer
+python clock-fixer.py
+
